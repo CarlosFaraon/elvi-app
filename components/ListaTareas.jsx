@@ -391,7 +391,7 @@ const styles = StyleSheet.create({
   },
   nombreBtn: {
     color: 'rgba(255,255,255,0.5)',
-    fontSize: 11,
+    fontSize: 16,
     paddingHorizontal: 6,
     paddingVertical: 2,
   },
@@ -402,7 +402,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
     paddingHorizontal: 8,
     paddingVertical: 4,
-    fontSize: 11,
+    fontSize: 16,
     color: '#fff',
     width: 80,
     textAlign: 'center',
