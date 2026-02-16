@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Tarea de Trabajo",
+    "slug": "tarea-de-trabajo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "scheme": "tarea-de-trabajo",
+    "splash": {
+      "backgroundColor": "#0f0c29"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.elvi.tareadetrabajo"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0f0c29"
+      },
+      "package": "com.elvi.tareadetrabajo"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-image-picker",
+      "expo-asset",
+      "expo-font"
+    ]
+  }
+}
